@@ -64,7 +64,7 @@ Machine Learning • Data Analysis • Predictive Modeling
 ---
 
 ### Building. Learning. Improving.
-## Hi there 👋
+
 
 <!--
 **mohammedsuhailrafek28/mohammedsuhailrafek28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
