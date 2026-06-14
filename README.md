@@ -1,19 +1,12 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Suhail%20Rafek&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Building%20AI%20Products&descAlignY=62&descSize=16)
 
-<p align="center">
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Engineer+%F0%9F%A7%A0;Full-Stack+Builder+%7C+React+%2B+FastAPI+%2B+ML;Hackathon+Finalist+%F0%9F%8F%86+%7C+Rs.10%2C000+Winner;Building+AI+Products+that+Matter+%F0%9F%9A%80" alt="Typing SVG" /></a>
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+and+Data+Science+Engineer;Full-Stack+Builder+React+FastAPI+ML;Hackathon+Finalist+Rs.10%2C000+Winner;Building+AI+Products+that+Matter)
 
-<p align="center">
-<a href="https://github.com/mohammedsuhailrafek28"><img src="https://komarev.com/ghpvc/?username=mohammedsuhailrafek28&style=flat-square&color=70A5FD" alt="Profile Views" /></a>
-<a href="https://www.linkedin.com/in/mohammed-suhail-rafek/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/mohammedsuhailrafek28"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:mohammedsuhailrafek@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=mohammedsuhailrafek28&style=flat-square&color=70A5FD)](https://github.com/mohammedsuhailrafek28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-suhail-rafek/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohammedsuhailrafek28) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammedsuhailrafek@gmail.com)
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```python
 class SuhailRafek:
@@ -47,7 +40,8 @@ class SuhailRafek:
 
 ## Tech Stack
 
-### Languages
+**Languages**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -55,32 +49,37 @@ class SuhailRafek:
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Frontend and Mobile
+**Frontend and Mobile**
+
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-### Backend and Frameworks
+**Backend and Frameworks**
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-### Databases
+**Databases**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-### AI and Data Science
+**AI and Data Science**
+
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-### Cloud and DevOps
+**Cloud and DevOps**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -91,18 +90,14 @@ class SuhailRafek:
 
 ## GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mohammedsuhailrafek28&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedsuhailrafek28&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=30363d&langs_count=8" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedsuhailrafek28&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedsuhailrafek28&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=30363d&langs_count=8)
 
 ---
 
 ## GitHub Streak
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=mohammedsuhailrafek28&theme=tokyonight&background=0d1117&border=30363d&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD" alt="GitHub Streak" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=mohammedsuhailrafek28&theme=tokyonight&background=0d1117&border=30363d&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD)
 
 ---
 
@@ -114,9 +109,7 @@ class SuhailRafek:
 
 ## Trophy Wall
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mohammedsuhailrafek28&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohammedsuhailrafek28&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 ---
 
@@ -142,7 +135,7 @@ class SuhailRafek:
 </details>
 
 <details>
-<summary><b>ML and Full-Stack Engineer — CIT Sentinel (Aura-Dash)</b> | 2025 – 2026 | Chennai, India</summary>
+<summary><b>ML and Full-Stack Engineer — CIT Sentinel</b> | 2025 – 2026 | Chennai, India</summary>
 <br>
 
 - Designed predictive analytics and early-intervention workflows for **student retention** using **React**, **TypeScript**, **Node.js**, **Tailwind CSS**, and **Recharts**.
