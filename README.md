@@ -1,5 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Suhail%20Rafek&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20and%20Data%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Building%20AI%20Products&descAlignY=62&descSize=16)
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+and+Data+Science+Engineer;Full-Stack+Builder+%7C+React+%2B+FastAPI+%2B+ML;Hackathon+Finalist+%7C+Rs.10%2C000+Winner;Building+AI+Products+that+Matter;Open+to+Collaborations+and+Internships)
+
 [![Profile Views](https://komarev.com/ghpvc/?username=mohammedsuhailrafek28&style=flat-square&color=70A5FD)](https://github.com/mohammedsuhailrafek28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-suhail-rafek/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohammedsuhailrafek28) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammedsuhailrafek@gmail.com)
 
 ---
