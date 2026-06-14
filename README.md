@@ -1,13 +1,13 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Suhail%20Rafek&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Building%20AI%20Products&descAlignY=62&descSize=16)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Mohammed%20Suhail%20Rafek&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=AI%20%26%20Data%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Building%20AI%20Products&amp;descAlignY=62&amp;descSize=16" alt="Header" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Engineer+%F0%9F%A7%A0;Full-Stack+Builder+%7C+React+%2B+FastAPI+%2B+ML;Hackathon+Finalist+%F0%9F%8F%86+%7C+%E2%82%B910%2C000+Winner;Building+AI+Products+that+Matter+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=AI+%26+Data+Science+Engineer+%F0%9F%A7%A0;Full-Stack+Builder+%7C+React+%2B+FastAPI+%2B+ML;Hackathon+Finalist+%F0%9F%8F%86+%7C+%E2%82%B910%2C000+Winner;Building+AI+Products+that+Matter+%F0%9F%9A%80" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=mohammedsuhailrafek28&style=flat-square&color=70A5FD)](https://github.com/mohammedsuhailrafek28)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-suhail-rafek/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohammedsuhailrafek28)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammedsuhailrafek@gmail.com)
+<a href="https://github.com/mohammedsuhailrafek28"><img src="https://komarev.com/ghpvc/?username=mohammedsuhailrafek28&amp;style=flat-square&amp;color=70A5FD" alt="Profile Views" /></a>
+<a href="https://www.linkedin.com/in/mohammed-suhail-rafek/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/mohammedsuhailrafek28"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+<a href="mailto:mohammedsuhailrafek@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -93,9 +93,9 @@ class SuhailRafek:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedsuhailrafek28&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=30363d&hide_border=false&count_private=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=mohammedsuhailrafek28&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=0d1117&amp;border_color=30363d&amp;hide_border=false&amp;count_private=true&amp;include_all_commits=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedsuhailrafek28&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=30363d&hide_border=false&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedsuhailrafek28&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0d1117&amp;border_color=30363d&amp;hide_border=false&amp;langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -105,7 +105,7 @@ class SuhailRafek:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohammedsuhailrafek28&theme=tokyonight&background=0d1117&border=30363d&ring=70A5FD&fire=FF6B6B&currStreakLabel=70A5FD)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohammedsuhailrafek28&amp;theme=tokyonight&amp;background=0d1117&amp;border=30363d&amp;ring=70A5FD&amp;fire=FF6B6B&amp;currStreakLabel=70A5FD" alt="GitHub Streak" /></a>
 
 </div>
 
@@ -115,7 +115,7 @@ class SuhailRafek:
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammedsuhailrafek28&bg_color=0d1117&color=70A5FD&line=70A5FD&point=FF6B6B&area=true&hide_border=false&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedsuhailrafek28&amp;bg_color=0d1117&amp;color=70A5FD&amp;line=70A5FD&amp;point=FF6B6B&amp;area=true&amp;hide_border=false&amp;theme=tokyo-night" alt="Activity Graph" /></a>
 
 </div>
 
@@ -125,7 +125,7 @@ class SuhailRafek:
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohammedsuhailrafek28&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=mohammedsuhailrafek28&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=6&amp;column=7" alt="GitHub Trophies" />
 
 </div>
 
@@ -242,8 +242,8 @@ Data Engineering —  Building scalable ETL and real-time data pipelines
 
 **Thanks for visiting! Drop a star if you find any of my work useful.**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&width=500&lines=Open+to+collaborations;Let%27s+build+something+impactful+together;mohammedsuhailrafek%40gmail.com)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=14&amp;duration=4000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Open+to+collaborations;Let%27s+build+something+impactful+together;mohammedsuhailrafek%40gmail.com" alt="Typing SVG" />
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" alt="Footer" width="100%" />
 
 </div>
