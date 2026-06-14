@@ -1,6 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Suhail%20Rafek&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Building%20AI%20Products&descAlignY=62&descSize=16)
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+and+Data+Science+Engineer;Full-Stack+Builder+React+FastAPI+ML;Hackathon+Finalist+Rs.10%2C000+Winner;Building+AI+Products+that+Matter)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Suhail%20Rafek&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20and%20Data%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Building%20AI%20Products&descAlignY=62&descSize=16)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mohammedsuhailrafek28&style=flat-square&color=70A5FD)](https://github.com/mohammedsuhailrafek28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-suhail-rafek/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohammedsuhailrafek28) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammedsuhailrafek@gmail.com)
 
@@ -54,7 +52,7 @@ class SuhailRafek:
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 **Backend and Frameworks**
@@ -73,7 +71,7 @@ class SuhailRafek:
 
 **AI and Data Science**
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -82,7 +80,6 @@ class SuhailRafek:
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
@@ -109,48 +106,45 @@ class SuhailRafek:
 
 ## Trophy Wall
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mohammedsuhailrafek28&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=mohammedsuhailrafek28&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
 
 ---
 
 ## Work Experience
 
 <details>
-<summary><b>Founder and Lead Developer — RoadLens AI</b> | 2025 – Present | Chennai, India</summary>
+<summary><b>Founder and Lead Developer — RoadLens AI</b> | 2025 to Present | Chennai, India</summary>
 <br>
 
-- Built an intelligent road safety platform using **Next.js**, **FastAPI**, and **Machine Learning** to predict and report hazardous road segments before accidents occur.
+- Built an intelligent road safety platform using Next.js, FastAPI, and Machine Learning.
 - Integrated AI-driven geospatial analysis and interactive risk visualisations.
-- Deployed at [roadlens-ai.vercel.app](https://roadlens-ai.vercel.app/)
-- Researching novel ML features: acoustic risk fingerprinting, ghost accident detection, chaos window forecasting.
+- Live at https://roadlens-ai.vercel.app
 </details>
 
 <details>
-<summary><b>AI Platform Engineer — MedX</b> | 2025 – Present | Chennai, India</summary>
+<summary><b>AI Platform Engineer — MedX</b> | 2025 to Present | Chennai, India</summary>
 <br>
 
-- Engineered a **privacy-preserving healthcare AI platform** with federated learning research workflows.
-- Built experiment tracking, evidence management, and compliant AI development pipelines using **Python**, **FastAPI**, **React**, **TypeScript**, and **PostgreSQL**.
-- Deployed at [medx-beta.vercel.app](https://medx-beta.vercel.app)
+- Engineered a privacy-preserving healthcare AI platform with federated learning workflows.
+- Stack: Python, FastAPI, React, TypeScript, PostgreSQL.
+- Live at https://medx-beta.vercel.app
 </details>
 
 <details>
-<summary><b>ML and Full-Stack Engineer — CIT Sentinel</b> | 2025 – 2026 | Chennai, India</summary>
+<summary><b>ML and Full-Stack Engineer — CIT Sentinel</b> | 2025 to 2026 | Chennai, India</summary>
 <br>
 
-- Designed predictive analytics and early-intervention workflows for **student retention** using **React**, **TypeScript**, **Node.js**, **Tailwind CSS**, and **Recharts**.
-- Built role-specific dashboards for mentors, faculty, and administrators.
-- Won **3rd Place at CIT SDG Hackathon 2026** and secured a **Rs.10,000 grant**.
-- Live at [cit-sentinal.vercel.app](https://cit-sentinal.vercel.app/)
+- Predictive analytics dashboards for student retention using React, TypeScript, Node.js.
+- Won 3rd Place at CIT SDG Hackathon 2026, received Rs.10,000 grant.
+- Live at https://cit-sentinal.vercel.app
 </details>
 
 <details>
-<summary><b>Frontend and AI Engineer — CAELIX FIT</b> | 2025 – Present | Chennai, India</summary>
+<summary><b>Frontend and AI Engineer — CAELIX FIT</b> | 2025 to Present | Chennai, India</summary>
 <br>
 
-- Developed an **AI-powered fashion and lifestyle platform** with personalised recommendations using **React.js**, **TypeScript**, **Firebase**, and **Tailwind CSS**.
-- Explored AI-assisted digital wardrobe concepts and scalable frontend architecture.
-- Live at [caelix.in](https://caelix.in/)
+- AI-powered fashion and lifestyle platform with React.js, TypeScript, Firebase, Tailwind CSS.
+- Live at https://caelix.in
 </details>
 
 ---
@@ -159,10 +153,10 @@ class SuhailRafek:
 
 | Project | Stack | Description | Live |
 |:---|:---|:---|:---:|
-| **CIT Sentinel** | React · TypeScript · Node.js · Recharts | Predictive student retention engine — won Rs.10,000 at CIT SDG Hackathon 2026 | [Demo](https://cit-sentinal.vercel.app/) |
-| **RoadLens AI** | Next.js · FastAPI · ML | Intelligent road safety platform with AI-driven hazard detection | [Demo](https://roadlens-ai.vercel.app/) |
-| **MedX** | Python · FastAPI · React · PostgreSQL | Privacy-preserving federated learning platform for healthcare AI | [Demo](https://medx-beta.vercel.app) |
-| **CAELIX FIT** | React.js · TypeScript · Firebase | AI-powered fashion and lifestyle platform with smart personalisation | [Demo](https://caelix.in/) |
+| CIT Sentinel | React, TypeScript, Node.js | Predictive student retention engine, Rs.10,000 hackathon winner | [Demo](https://cit-sentinal.vercel.app/) |
+| RoadLens AI | Next.js, FastAPI, ML | Intelligent road safety platform with AI hazard detection | [Demo](https://roadlens-ai.vercel.app/) |
+| MedX | Python, FastAPI, React, PostgreSQL | Privacy-preserving federated learning for healthcare AI | [Demo](https://medx-beta.vercel.app) |
+| CAELIX FIT | React.js, TypeScript, Firebase | AI-powered fashion and lifestyle platform | [Demo](https://caelix.in/) |
 
 ---
 
@@ -170,36 +164,27 @@ class SuhailRafek:
 
 | Achievement | Year | Details |
 |:---|:---:|:---|
-| 3rd Place — CIT SDG Hackathon | 2026 | Built CIT Sentinel; received Rs.10,000 grant |
-| Hackathon Finalist (Multiple) | 2025–2026 | Finalist across multiple national-level hackathons |
-| Tata GenAI Data Analytics Simulation | Jan 2026 | Tata Group / Forage |
-| British Airways Data Science Simulation | Jan 2026 | British Airways / Forage |
-| UNLOX App Development Program | Jan–Mar 2026 | End-to-end mobile app development |
-| BCG GenAI Financial Analytics Simulation | Apr 2026 | Boston Consulting Group / Forage |
+| 3rd Place at CIT SDG Hackathon | 2026 | Built CIT Sentinel, received Rs.10,000 grant |
+| Hackathon Finalist | 2025 to 2026 | Multiple national-level hackathons |
+| Tata GenAI Data Analytics Simulation | Jan 2026 | Tata Group via Forage |
+| British Airways Data Science Simulation | Jan 2026 | British Airways via Forage |
+| UNLOX App Development Program | Jan to Mar 2026 | End-to-end mobile app development |
+| BCG GenAI Financial Analytics Simulation | Apr 2026 | Boston Consulting Group via Forage |
 
 ---
 
-## Education and Currently Learning
+## Education
 
-```text
-B.E.  Artificial Intelligence and Data Science
-      Chennai Institute of Technology, Chennai
-      CGPA: 7.77  |  Expected Graduation: 2027
+```
+B.E. in Artificial Intelligence and Data Science
+Chennai Institute of Technology, Chennai
+CGPA: 7.77  |  Expected Graduation: 2027
 ```
 
-**Currently Levelling Up In:**
-
-```text
-MLOps              —  Model deployment, monitoring and CI/CD for ML
-Federated Learning —  Privacy-preserving distributed ML systems
-LLM Engineering    —  Fine-tuning, RAG pipelines, prompt engineering
-Data Engineering   —  Building scalable ETL and real-time data pipelines
-```
+Currently learning: MLOps, Federated Learning, LLM Engineering, Data Engineering
 
 ---
 
-> *"Don't wait until you have all the answers. Start building. The answers come from shipping."*
-
-**Thanks for visiting — drop a star if you find any of my work useful!**
+> "Don't wait until you have all the answers. Start building. The answers come from shipping."
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
